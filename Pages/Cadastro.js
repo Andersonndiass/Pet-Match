@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Text, TouchableOpacity, StyleSheet, TextInput, Alert, Image, View } from 'react-native';
 
-import back from '../assets/icon/angulo-pequeno-esquerdo.png';
+import back from '../assets/icon/back.png';
 import eyeOn from '../assets/icon/eye-open.png';
 import eyeOff from '../assets/icon/eye-closed.png';
 
@@ -108,7 +108,7 @@ const styles = StyleSheet.create({
     padding: 20,
   },
   img: {
-    width: 40,
+    width: 45,
     height: 40,
   },
   imgB: {

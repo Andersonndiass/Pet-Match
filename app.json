@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "petmatch",
-    "slug": "snack-6849b74e-6859-400b-bfe0-097219ff1ced",
+    "slug": "snack-af1b3668-4f93-4a87-b281-fe13175b9350",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
